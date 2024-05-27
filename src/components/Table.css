@@ -1,0 +1,29 @@
+.table th {
+    vertical-align: middle;
+}
+
+.sort-icon {
+    margin-left: 5px;
+}
+
+.header-cell {
+    display: flex;
+    align-items: center;
+}
+
+.header-cell select {
+    margin-left: 5px;
+}
+
+
+.sort-info {
+    text-align: center;
+    font-size: 18px;
+    color: #333;
+  }
+  
+  .star {
+    color: gold;
+    font-size: 20px;
+  }
+  
